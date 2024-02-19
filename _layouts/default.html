@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html>
 
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+
   {% include head.html %}
 
   <body>
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
+    <div class="container-fluid">
+      <div class="row">
         {{ content }}
       </div>
     </div>
