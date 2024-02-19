@@ -44,9 +44,10 @@ I am interested in developing statistical models and bioinformatic tools to answ
 
 <br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/dummy.jpg){: style="width: 350px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/alba_bossoms_mesa.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Alba Bossoms Mesa - *PhD Student (MPI, co-advised by Matthias Meyer)*
-To Come
+My research is fuelled by a vivid curiosity for the bygone lives of Pleistocene humans. With a foundation in genetics and a fervent fascination for prehistoric archaeology, I am driven by the profound insights that emerge when these two disciplines converge. Specifically, with my PhD, I seek to improve our fine-scale understanding of Neandertal communities. I firmly believe that the path to better comprehending the intricacies of their past lies in tackling local-scale questions, and in making use of all the data available. For these reasons, I aim to analyse ancient DNA extracted from ancient bones and from sediments from various archeological sites across Western Europe to better understand patterns of population turnovers, kinship, genetic diversity and beyond.
+I find special joy in communicating the results of these efforts in a diverse array of settings: from cohorts of higher-education students, to contexts spanning beyond the confines of academia, engaging in public outreach initiatives aimed to a broader audience. In this way, I hope to foster a greater appreciation for the rich tapestry of human history and ignite interest about a time when our ancestors coexisted with other human groups.
 
 
 <br><br><br><br><br><br><br><br><br><br><br>
