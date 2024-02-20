@@ -1,22 +1,362 @@
 - title: "100,000 years of gene flow between Neandertals and Denisovans in the Altai mountains."
-  image: images/teampic/dummy.jpg
+  image: admixfrog.png
   description: "I developed a new method to detect local ancestry in archaic genomes"
   authors: BM Peter
+  authorsshort: BM Peter
   journal: biorxiv
   link:
     url: https://www.biorxiv.org/content/10.1101/2020.03.13.990523v1
     display:  Link
   highlight: 1
+  year: 
+  news1:
   news2:
 
-- title: "KIN: A method to infer relatedness from low-coverage ancient DNA [Genome Biology](http://dx.doi.org/10.1186/s13059-023-02847-7)"
-  image: images/teampic/dummy.jpg
-  description: "We developed a new method to classify familial relatedness up to 3rd degree using minimal data"
+- title: "KIN: A method to infer relatedness from low-coverage ancient DNA"
+  image: kin.webp
+  description: "We develop a new method to classify familial relatedness up to 3rd degree using minimal data, taking contamination and ancient DNA damage into account"
   authors: Divyaratan Popli, Stéphane Peyrégne, BM Peter
+  authorsshort: Divyaratan Popli, Stéphane Peyrégne, BM Peter
   journal: Genome Biology
+  year: 2023
   link:
     url: http://dx.doi.org/10.1186/s13059-023-02847-7)
     display:  Link
   highlight: 1
+
+- title: "Genetic insights into the social organization of Neanderthals"
+  authors: "**Skov L, Peyrégne S, Popli D, Iasi LNM**, Devièse T, Slon V, Zavala EI, Hajdinjak M, **Sümer AP**, Grote S, **Bossoms Mesa A**, López Herráez D, Nickel B, Nagel S, Richter J, Essel E, Gansauge M, Schmidt A, Korlević P, Comeskey D, Derevianko AP, Kharevich A, Markin SV, Talamo S, Douka K, Krajcarz MT, Roberts RG, Higham T, Viola B, Krivoshapkin AI, Kolobova KA, Kelso J, Meyer M, Pääbo S **Peter, BM**."
+  authorsshort: "Skov et al."
+  image: neandertal.webp
+  description: "We develop a new method to classify familial relatedness up to 3rd degree using minimal data, taking contamination and ancient DNA damage into account"
+  journal: Nature
+  year: 2022
+  link:
+    url: https://doi.org/10.1038/s41586-022-05283-y
+    display:  Link
+  highlight: 1
   news2:
+
+- title: "Assessing human genome-wide variation in the Massim region of Papua New Guinea and implications for the Kula trading tradition." 
+  authors: "*Liu D, **Peter BM**, Schiefenhovel W, Kayser M, Stoneking M"
+  authorsshort: "*Liu D, **Peter BM**, Schiefenhovel W, Kayser M, Stoneking M"
+  image: dummy.jpg
+  description: ""
+  journal: Molecular Biology and Evolution
+  year: 2022
+  link:
+    url: http://dx.doi.org/10.1093/molbev/msac165
+    display:  Link
+  highlight: 2
+
+- title: "The evolutionary history of human spindle genes includes back-and-forth gene flow with Neandertals" 
+  authors: "Peyrégne S, Kelso J, **Peter BM**, Pääbo S"
+  authorsshort: "Peyrégne S, Kelso J, **Peter BM**, Pääbo S"
+  image: dummy.jpg
+  description: ""
+  journal: eLife
+  year: 2022
+  link:
+    url: http://dx.doi.org/10.7554/eLife.75464
+    display:  Link
+  highlight: 2
+
+- title: "A geometric relationship of F2, F3 and F4-statistics with principal component analysis." 
+  authors: "Peter BM"
+  authorsshort: "Peter BM"
+  image: pca.jpg
+  description: "I develop some theory that show that F-statistics and PCA belong to the same framework. This allows us to interpret PCA-plots quantitatively in the context of admixture"
+  journal: Philos. Trans. R. Soc. B
+  year: 2022
+  link:
+    url: http://dx.doi.org/10.1098/rstb.2020.0413
+    display:  Link
+  highlight: 1
+ 
+
+- title: "An extended admixture pulse model reveals the limitations to Human-Neandertal introgression dating"
+  authors: "**Iasi, LNM**, Ringbauer H & **Peter BM**"
+  authorsshort: "**Iasi, LNM**, Ringbauer H & **Peter BM**"
+  image: extended_pulse.jpeg
+  description: "Over which time period did Humans and Neandertals interact? In this paper, we develop theory to show that this question is unanswerable from present-day genetic data"
+  journal: Molecular Biology and Evolution
+  year: 2021
+  link:
+    url: https://academic.oup.com/mbe/article/38/11/5156/6319725
+  highlight: 1
+ 
+- title: "Mitonuclear interactions and introgression genomics of macaque monkeys [Macaca] highlight the influence of behaviour on genome evolution"
+  authors: "Evans BJ, **Peter BM**, Melnick DJ, Andayani N, Supriatna J, Zhu J & Tosi AJ"
+  authorsshort: "Evans BJ, **Peter BM**, Melnick DJ, Andayani N, Supriatna J, Zhu J & Tosi AJ"
+  image: dummy.jpg
+  description: ""
+  journal: Proc. Roy. Soc. B
+  year: 2021
+  link:
+    url: http://dx.doi.org/10.1098/rspb.2021.1756
+  highlight: 2
+ 
+
+- title: "Different historical generation intervals in human populations inferred from Neanderthal fragment lengths and patterns of mutation accumulation."
+  authors: "Coll Macià M, **Skov L, Peter, BM**, Schierup MH"
+  authorsshort: "Coll Macià M, **Skov L, Peter, BM**, Schierup MH"
+  image: dummy.jpg
+  description: ""
+  journal: Nature Communications
+  year: 2021
+  link:
+    url: https://www.nature.com/articles/s41467-021-25524-4
+  highlight: 2
+
+- title: "Genome of a middle Holocene hunter-gatherer from Wallacea."
+  authors: "Carlhoff S, Duli A, Nägele K, Nur M, **Skov L**, Sumantri I, Oktaviana AA, Hakim B, Burhan B, Syahdar FA, McGahan DP, Bulbeck D, Perston YL, Newman K, Saiful AM, Ririmasse M, Chia S, Hasanuddin, Suryatman DATP, Supriaadi, Jeong C, **Peter BM**, Prüfer K, Powell A, Krause J, Posth C, Brumm A"
+  authorsshort: "Carlhoff S, Duli A, Nägele K, Nur M, **Skov L**, Sumantri I, Oktaviana AA, Hakim B, Burhan B, Syahdar FA, McGahan DP, Bulbeck D, Perston YL, Newman K, Saiful AM, Ririmasse M, Chia S, Hasanuddin, Suryatman DATP, Supriaadi, Jeong C, **Peter BM**, Prüfer K, Powell A, Krause J, Posth C, Brumm A"
+  image: dummy.jpg
+  description: ""
+  journal: Nature
+  year: 2021
+  link:
+    url: http://dx.doi.org/10.1038/s41586-021-03823-6
+  highlight: 2
+
+- title: "Initial Upper Palaeolithic humans in Europe had recent Neanderthal ancestry."
+  authors: "Hajdinjak M, Mafessoni F, **Skov L**, Vernot B, Hubner A, Fu Q, Essel E, Nagel S, Nickel B, Richter J, Moldovan OT, Constation S,, Endarova E, Zahariev N, Spasov R, Welker F, Smitt GM, Sinet-Mathiot V, Paskulin L, Fewlass H, Talamo S, Rezek Z, Sirakova S, Sirakov N, McPherron SP, Tsanova T, Hublin JJ, **Peter BM**, Meyer M, Skoglund P, Kelso J, Paabo S"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: Nature
+  year: 2021
+  link:
+    url: https://www.nature.com/articles/s41586-021-03335-3
+  highlight: 2
+
+- title: "Unearthing Neanderthal population history using nuclear and mitochondrial DNA from cave sediments."
+  authors: "Vernot B, Zavala EI, Gómez-Olivencia A, Jacobs Z, Slon V, Mafessoni F, Romagné F, Pearson A, Petr M, Sala N, Pablos A, Aranburu A, Bermúdez de Castro JM, Carbonell E, Li B, Krajcarz MT, Krivoshapkin AI, Kolobova KA, Kozlikin MB, Shunkov MV, Derevianko AP, Viola B, Grote S, Essel E, López Herráez D, Nagel S, Nickel B, Richter J, Schmidt A, **Peter BM**, Kelso J, Roberts RG, Arsuaga JL, Meyer M"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: Science
+  year: 2021
+  link:
+    url: https://doi.org/10.1126/science.abf1667
+  highlight: 2
+
+
+- title: "Denisovan ancestry and population history of early East Asians"
+  authors: "Massilani D, **Skov L**, Hajdinjak M, Gunchinsuren B, Tseveendorj D, Yi S, Lee J, Nagel S, Nickel B, Devies T, Higham T, Meyer M, Kelso J, **Peter BM**, Paabo S"
+  authorsshort: "Massilani D, **Skov L**, Hajdinjak M, Gunchinsuren B, Tseveendorj D, Yi S, Lee J, Nagel S, Nickel B, Devies T, Higham T, Meyer M, Kelso J, **Peter BM**, Paabo S"
+  image: salkhit.jpg
+  description: "We contribute to a paper describing the oldest Human from Mongolia, who lived more than 34,000 years ago. We show that he already had Denisovan ancestry, and that the same ancestry persists in present-day East Asians."
+  journal: Science
+  year: 2020
+  link:
+    url: https://doi.org/10.1126/science.abc1166
+  highlight: 1
+
+- title: "AuthentiCT: a model of ancient DNA damage to estimate the proportion of present-day DNA contamination."
+  authors: "**Peyrėgne S & Peter BM**"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: Genome Biology
+  year: 2020
+  link: 
+    url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02123-y
+  highlight: 2
+
+- title: "A high-coverage Neandertal genome from Chagyrskaya Cave"
+  authors: "Mafessoni F, Grote S, de Filippo C, Slon V, Kolobova K, Viola, B, Markin S, Chintalapati M, **Peyrégne S, Skov L**, Skoglund P, Krivoshapkin A Derevianko A, Meyer M, Kelso B, **Peter B**, Prüfer K & Pääbo S"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: PNAS
+  year: 2020
+  link:
+    url: https://www.pnas.org/doi/10.1073/pnas.2004944117
+  highlight: 2
+- title: Genetic landscapes reveal how human genetic diversity aligns with geography
+  authors: "**Peter, BM**, Petkova D , Novembre J"
+  authorsshort: "**Peter, BM**, Petkova D , Novembre J"
+  image: eems.png
+  description: "We show that Human Genetic Diversity can (largely) be explained by spatial constraints; and that these constraints are commonly mountains, deserts, oceans, i.e. barriers to gene flow and migration."
+  journal: Molecular Biology and Evolution
+  year: 2020
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31778174/
+  highlight: 1
+
+- title: "Human local adaptation of the TRPM8 cold receptor along a latitudinal cline"
+  authors: "Key FM, Muslihudeen AA, Mundry R, **Peter BM**, D'Amato M, Dennis MY, Schmidt JM and Andrés, AM"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: PLoS Genetics
+  year: 2018
+  link:
+    url:  https://doi.org/10.1371/journal.pgen.1007298
+  highlight: 2
+
+- title: "A longitudinal cline characterizes the genetic structure of human populations in the Tibetan plateau."
+  authors: "Jeong C, **Peter BM**, Basnyat B, Neupane M, Beall CM, Childs G, Craig SR, Novembre J and Di Rienzo A"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: PLoS One
+  year: 2017
+  link:
+    url: https://doi.org/10.1371/journal.pone.0175885
+  highlight: 2
+
+
+- title: "Chimpanzee genomic diversity reveals ancient admixture with bonobos"
+  authors: "Marc de Manuel M, Kuhlwilm M, Frandsen P, et al. [and 34 others, including **Peter BM]**"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: Science
+  year: 2016
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5546212/
+  highlight: 2
+
+- title: "Recent advances in the study of fine-scale population structure in humans."
+  authors: "Novembre J, and **Peter BM"
+  authorsshort: "Peter BM"
+  image: dummy.jpg
+  description: ""
+  journal: "Curr. Opin. Genet. Dev."
+  year: 2016
+  link:
+    url: https://doi.org/10.1016/j.gde.2016.08.007
+  highlight: 2
+
+- title: "Admixture, Population Structure, and F-Statistics"
+  authors: "Peter BM"
+  authorsshort: "Peter BM"
+  image: fstats.jpeg
+  description: "I develop and explain the population genetic background of F-statistics, a popular and widely used framework to analyze complex population structure."
+  journal: Genetics
+  year: 2016
+  link:
+    url: https://doi.org/10.1534/genetics.115.183913
+  highlight: 1
+
+
+- title: "Phylogenomics at the tips: inferring lineages and their demographic history in a tropical lizard, *Carlia amax*"
+  authors: "Potter S, Bragg J, **Peter, BM**, Bi K, Moritz C"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: Molecular Ecology
+  year: 2016
+  link:
+    url: https://doi.org/10.1111/mec.13546
+  highlight: 2
+
+- title: "Estimating the ages of selection signals from different epochs in human history"
+  authors: "Nakagome S, Alkorta-Aranburu G, Amato R, Howie B, **Peter BM**, Hudson RR and Di Rienzo A"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: Molecular Biology and Evolution
+  year: 2015
+  link:
+    url: https://doi.org/10.1093%2Fmolbev%2Fmsv256
+  highlight: 2
+
+
+- title: "The effective founder effect in a spatially expanding population" 
+  authors: "**Peter BM** and Slatkin M"
+  authorsshort: "**Peter BM** and Slatkin M"
+  image: effective_founder.jpg
+  description: "I describe a simple model to define an effective founder size, which measures how much a population's diversity declines during an expansion"
+  journal: Evolution
+  year: 2015
+  link:
+    url: 
+  highlight: 1
+
+
+- title: Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA
+  authors: Huerta-Sánchez E, Jin X, Bianba Z, **Peter BM** et al. 
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: Nature
+  year: 2014
+  link:
+    url: https://www.nature.com/articles/nature13408
+  highlight: 2
+
+
+- title: Selection on a Variant Associated with Improved Viral Clearance Drives Local Adaptive Pseudogenization of Interferon Lambda 4 (IFNL4).
+  authors: "Key FM, **Peter B**, Dennis M, et al."
+  authorsshort: "Key FM, **Peter B**, Dennis M, et al."
+  image: dummy.jpg
+  description: ""
+  journal: PLoS Genetics
+  year: 2014
+  link:
+    url: https://doi.org/10.1371/journal.pgen.1004681
+  highlight: 2
+
+
+- title: A Selective Sweep on a Deleterious Mutation in CPT1A in Arctic Populations
+  authors: Clemente FJ, Cardona A, Inchley C, **Peter BM** et al. 
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: AJHG
+  year: 2014
+  link:
+    url: https://doi.org/10.1016/j.ajhg.2014.09.016
+  highlight: 2
+
+
+- title: "Surfing waves of data in San Diego: sophisticated analyses provide a broad view of human genetic diversity."
+  authors: "Reppell M, Koch E, **Peter BM**, and Novembre J"
+  authorsshort: "Reppell M, Koch E, **Peter BM**, and Novembre J"
+  image: dummy.jpg
+  description: ""
+  journal: Genome Biology
+  year: 2014
+  link:
+    url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0562-4
+  highlight: 2
+
+
+- title: "Detecting Range Expansions from Genetic Data"
+  authors: "**Peter BM** and Slatkin M"
+  authorsshort: "**Peter BM** and Slatkin M"
+  image: directionality_index.jpg
+  description: "We develop a statistic, called the directionality index, that allows the characterization of the direction of gene flow from genetic data. It also allows pinpointing the origin of an expansion."
+  journal: Evolution
+  year: 2013
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4282923/
+  highlight: 1
+
+
+- title: Distinguishing selection from standing variation from selection on a de novo mutation
+  authors: "**Peter BM**, Huerta-Sánchez E, and Nielsen, R"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: PLoS Genetics
+  year: 2012
+  link:
+    url: https://doi.org/10.1371/journal.pgen.1003011
+  highlight: 2
+
+
+- title: Distinguishing between population bottleneck and population subdivision by a Bayesian model choice procedure.
+  authors: "**Peter BM**, Wegmann D, and Excoffier L"
+  authorsshort: ""
+  image: dummy.jpg
+  description: ""
+  journal: Molecular Ecology
+  year: 2010
+  link:
+    url: https://doi.org/10.1111/j.1365-294X.2010.04783.x
+  highlight: 2
 

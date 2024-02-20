@@ -26,10 +26,9 @@ For a full list see [Google Scholar](https://scholar.google.com/citations?user=A
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.authors }}</p>
-  <p><em>{{ publi.journal }}</em></p>
+  <p>{{ publi.authorsshort }}</p>
+  <p><strong><a target="_blank" href="{{ publi.link.url }}">{{ publi.journal }} ({{publi.year}})</a></strong></p>
   <p>{{ publi.description }}</p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -50,3 +49,11 @@ For a full list see [Google Scholar](https://scholar.google.com/citations?user=A
 {% endif %}
 
 
+## Full List of publications
+
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} ({{ publi.year }})<br />
+  <em>{{ publi.authors }} </em><br /><a target="_blank" href="{{ publi.link.url }}">{{ publi.journal }}</a>
+
+{% endfor %}
