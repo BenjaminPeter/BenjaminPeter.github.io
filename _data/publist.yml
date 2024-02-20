@@ -1,0 +1,22 @@
+- title: "100,000 years of gene flow between Neandertals and Denisovans in the Altai mountains."
+  image: images/teampic/dummy.jpg
+  description: "I developed a new method to detect local ancestry in archaic genomes"
+  authors: BM Peter
+  journal: biorxiv
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.03.13.990523v1
+    display:  Link
+  highlight: 1
+  news2:
+
+- title: "KIN: A method to infer relatedness from low-coverage ancient DNA [Genome Biology](http://dx.doi.org/10.1186/s13059-023-02847-7)"
+  image: images/teampic/dummy.jpg
+  description: "We developed a new method to classify familial relatedness up to 3rd degree using minimal data"
+  authors: Divyaratan Popli, Stéphane Peyrégne, BM Peter
+  journal: Genome Biology
+  link:
+    url: http://dx.doi.org/10.1186/s13059-023-02847-7)
+    display:  Link
+  highlight: 1
+  news2:
+
