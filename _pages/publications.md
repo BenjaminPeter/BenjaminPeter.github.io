@@ -22,7 +22,7 @@ permalink: /publications/
 - **Popli D, Peyrégne S & Peter, BM**: KIN: A method to infer relatedness from low-coverage ancient DNA [Genome Biology](http://dx.doi.org/10.1186/s13059-023-02847-7)
 
 ##### 2022
-- **Skov L, Peyrégne S, Popli D, Iasi LNM**, Devièse T, Slon V, Zavala EI, Hajdinjak M, **Sümer AP**, Grote S, **Bossoms Mesa A**, López Herráez D, Nickel B, Nagel S, Richter J, Essel E, Gansauge M, Schmidt A, Korlević P, Comeskey D, Derevianko AP, Kharevich A, Markin SV, Talamo S, Douka K, Krajcarz MT, Roberts RG, Higham T, Viola B, Krivoshapkin AI, Kolobova KA, Kelso J, Meyer M, Pääbo S **Peter, BM**. Genetic insights into the social organization of Neanderthals **Nature**
+- **Skov L, Peyrégne S, Popli D, Iasi LNM**, Devièse T, Slon V, Zavala EI, Hajdinjak M, **Sümer AP**, Grote S, **Bossoms Mesa A**, López Herráez D, Nickel B, Nagel S, Richter J, Essel E, Gansauge M, Schmidt A, Korlević P, Comeskey D, Derevianko AP, Kharevich A, Markin SV, Talamo S, Douka K, Krajcarz MT, Roberts RG, Higham T, Viola B, Krivoshapkin AI, Kolobova KA, Kelso J, Meyer M, Pääbo S **Peter, BM**. Genetic insights into the social organization of Neanderthals [Nature](https://doi.org/10.1038/s41586-022-05283-y)
 - Liu D, **Peter BM**, Schiefenhovel W, Kayser M, Stoneking M: Assessing human genome-wide variation in the Massim region of Papua New Guinea and implications for the Kula trading tradition. [Molecular Biology and Evolution](http://dx.doi.org/10.1093/molbev/msac165)
 - Peyrégne S, Kelso J, **Peter BM**, Pääbo S: The evolutionary history of human spindle genes includes back-and-forth gene flow with Neandertals [eLife](http://dx.doi.org/10.7554/eLife.75464)
 - **Peter BM**: A geometric relationship of F2, F3 and F4-statistics with principal component analysis. [Philosophical Transactions of the Royal Society B: Biological Sciences](http://dx.doi.org/10.1098/rstb.2020.0413)
@@ -39,7 +39,7 @@ permalink: /publications/
 ##### 2020
 - Massilani D, **Skov L(http://dx.doi.org/10.7554/eLife.59323)**, Hajdinjak M, Gunchinsuren B, Tseveendorj D, Yi S, Lee J, Nagel S, Nickel B, Devies T, Higham T, Meyer M, Kelso J, **Peter BM**, Paabo S: Denisovan ancestry and population history of early East Asians. [Science](Science)
 - **Peyrėgne S & Peter BM**: AuthentiCT(): a model of ancient DNA damage to estimate the proportion of present-day DNA contamination. [Genome Biology]()
-- Mafessoni F, Grote S, de() Filippo C, Slon V, Kolobova K, Viola, B, Markin S, Chintalapati M, **Peyrégne S, Skov L**, Skoglund P, Krivoshapkin A Derevianko A, Meyer M, Kelso B, **Peter B**, Prüfer K & Pääbo S: A high-coverage Neandertal genome from Chagyrskaya Cave. [PNAS]()
+- Mafessoni F, Grote S, de Filippo C, Slon V, Kolobova K, Viola, B, Markin S, Chintalapati M, **Peyrégne S, Skov L**, Skoglund P, Krivoshapkin A Derevianko A, Meyer M, Kelso B, **Peter B**, Prüfer K & Pääbo S: A high-coverage Neandertal genome from Chagyrskaya Cave. [PNAS]()
 - **Peter, BM**, Petkova D , Novembre J: Genetic landscapes reveal how human genetic diversity aligns with geography. [Molecular Biology and Evolution]()
 
 ##### 2018

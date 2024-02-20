@@ -54,7 +54,7 @@ I find special joy in communicating the results of these efforts in a diverse ar
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/dummy.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Arev Sümer - *PhD Student (MPI, co-advised by Kay Prüfer)*
-To Come
+My main interest lies in the population genetics of archaic humans (Neandertals and Denisovans), as well as early modern humans (earlier members of our species), and the interactions between these groups. I work on various projects, mostly but not limited to genomic and population genetics analyses. These data analysis oriented projects include low coverage genomes of Late Neandertals from Croatia, and the oldest high coverage early modern human genomes from Germany and Czechia. I am also working on developing a tool to estimate a multi-dimensional conditional site-frequency spectrum, which can then be used to make population genetic and demographic inferences from this otherwise unusable data, as most of the data we obtain from archaic humans is too low coverage and contaminated to analyze with the standard population genetics tools.
 
 
 <br><br><br><br><br><br><br><br><br><br><br>
