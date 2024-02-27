@@ -81,7 +81,7 @@ To Come
 ### Lab Alumni
 - [Laurits Skov (postdoc)](https://sites.google.com/view/laurits-skov/) - currently a postdoc in Priya Moorjani's group in
 Berkeley
-- [Stéphane Peyrégne (postdoc)](https://twitter.com/stephpeyregne) - currently a postdoc in Janet Kelso's group at the MPI-EVA in Leipzig
+- [Stéphane Peyrégne (postdoc)](https://www.eva.mpg.de/genetics/computational-ancient-genomics/people/) - currently a postdoc in Janet Kelso's group at the MPI-EVA in Leipzig
 <br>
 
 <!--
