@@ -1,0 +1,51 @@
+- title: "admixfrog"
+  image: admixfrog.png
+  description: "A program for local ancestry inference from low-coverage ancient DNA"
+  authors: BM Peter
+  language: python
+  journal: biorxiv
+  link:
+    paper: https://www.biorxiv.org/content/10.1101/2020.03.13.990523v1
+    program: https://www.github.com/benjaminpeter/admixfrog
+  highlight: 1
+  year: 
+  news1:
+  news2:
+
+
+- title: "KIN"
+  image: kin.webp
+  description: "A method to infer relatedness from low-coverage ancient DNA"
+  authors: Divyaratan Popli, Stéphane Peyrégne, BM Peter
+  language: python, snakemake
+  journal: Genome Biology
+  year: 2023
+  link:
+    paper: http://dx.doi.org/10.1186/s13059-023-02847-7
+    program: https://github.com/DivyaratanPopli/Kinship_Inference
+  highlight: 1
+
+
+- title: "rangeExpansion"
+  authors: "**Peter BM** and Slatkin M"
+  image: effective_founder.jpg
+  description: "Calculates the origin of a range expansion"
+  journal: Evolution
+  year: 2015
+  language: R
+  link:
+    paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4282923/
+    program: https://github.com/BenjaminPeter/rangeexpansion 
+  highlight: 1
+
+- title: "AuthentiCT"
+  authors: "**Stėphane Peyrėgne & Peter BM**"
+  image: dummy.jpg
+  description: "A program to estimate contamination from patterns of ancient DNA damage"
+  journal: Genome Biology
+  year: 2020
+  link: 
+    paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02123-y
+    program: https://github.com/StephanePeyregne/AuthentiCT
+  highlight: 1
+
