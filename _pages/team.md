@@ -17,7 +17,7 @@ Before that, I was a postdoc with [John Novembre](jnpopgen.org) at the Universit
 I am widely interested in methods and applications of population and evolutionary genetics. Currently, I am primarily focussed on analyzing Neandertal DNA from fossils with minimal DNA preservation, and studying the interactions of Neandertals, Denisovans and early humans through time. 
 I am also interested in theory and methods to conceptualize, formailze and estimate population structure, particularly from large, heterogeneous samples.
 
-Email: b.peter@rochester.edu <br>
+Email: [b.peter@rochester.edu](mailto://b.peter@rochester.edu) <br>
 Twitter: [@benmmpeter](https://twitter.com/benmpeter) <br>
 Pronouns: he/his
 <br><br><br>
@@ -59,11 +59,15 @@ My main interest lies in the population genetics of archaic humans (Neandertals 
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/dummy.jpg){: style="width: 350px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/jiaqi_yang.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Jiaqi Yang - *PhD Student (MPI)*
-To Come
+ am interested in studying the human past, and particularly,
+archaic(Neanderthal/Denisovan) admixture in early modern humans. However, the
+inference of archaic admixture from ancient DNA has been challenging. Therefore,
+I am focusing on developing and applying new computational methods to better
+understand the relationships between archaic and modern humans.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/dummy.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Eduardo Gonzales - *PhD Student (MPI)*
@@ -78,7 +82,6 @@ To Come
 - [Laurits Skov (postdoc)](https://sites.google.com/view/laurits-skov/) - currently a postdoc in Priya Moorjani's group in
 Berkeley
 - [Stéphane Peyrégne (postdoc)](https://twitter.com/stephpeyregne) - currently a postdoc in Janet Kelso's group at the MPI-EVA in Leipzig
-Berkeley
 <br>
 
 <!--
