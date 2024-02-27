@@ -44,6 +44,7 @@
   description: "A program to estimate contamination from patterns of ancient DNA damage"
   journal: Genome Biology
   year: 2020
+  languate: python
   link: 
     paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02123-y
     program: https://github.com/StephanePeyregne/AuthentiCT
