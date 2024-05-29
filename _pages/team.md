@@ -8,9 +8,9 @@ permalink: /people/
 
 # The Research Group
 
-#### **The Peter lab is recruiting motivated undergraduate students, graduate students, and postdocs. 
+#### The Peter lab is recruiting motivated undergraduate students, graduate students, and postdocs. 
 Undergraduate students are encouraged to apply through [AURA](https://joinaura.io/lab/Peter+Lab)
-Please contact [me](mailto://b.peter@rochester.edu) if you're interested in joining the lab!**
+Please contact [me](mailto://b.peter@rochester.edu) if you're interested in joining the lab!
 <br>
 
 
