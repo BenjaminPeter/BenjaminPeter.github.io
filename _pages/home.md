@@ -11,8 +11,8 @@ permalink: /
 Welcome to Peter Lab at the [University of Rochester](https://www.rochester.edu) and the [MPI-EVA](https://www.eva.mpg.de/genetics/staff/benjamin-peter) in Leipzig. 
 We are a computational biology lab, and we work on a wide array of statistical and computational population genetic methods. 
 Currently, we are in the middle of a (slow) transition to Rochester from
-Leipzig, and are looking to [recruit postdocs, undergraduate and graduate
-students.](mailto://b.peter@rochester.edu)
+Leipzig, and are looking to [recruit postdocs, graduate students](mailto://b.peter@rochester.edu)
+and [undergraduate students](https://joinaura.io/lab/Peter+lab)
 
 We are particularly interested in the following topics:
 - Methods for the analysis of low-coverage ancient DNA
