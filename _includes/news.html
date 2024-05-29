@@ -3,8 +3,15 @@
 <h4>News</h4>
 
 {% for article in site.data.news limit:5 %}
-<b>{{ article.date }}</b>
-<p>{{ article.headline }}</p>
+<small><i>{{ article.date }}</i></small>
+<p><a href={{article.link}}>{{ article.headline }}</a></p>
+<p>
+{% if article contains "image" %}
+<img src="{{site.url}}/images/{{article.image}}" width="50%" 
+style="float:left; margin-right:20px"/>
+{% endif %}
+{{ article.text }}
+</p>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>

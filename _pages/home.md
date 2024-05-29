@@ -23,6 +23,7 @@ We are particularly interested in the following topics:
 
 <br><br><br>
 **We are currently building our group in Rochester, and we are looking for motivated students and postdocs. Please get in touch if you'd like to join the team!** 
+Undergraduate students at UR are encouraged to apply via [AURA](https://joinaura.io/lab/Peter+Lab).
 
 
 (Photo by Alba Bossoms Mesa)

@@ -8,6 +8,12 @@ permalink: /people/
 
 # The Research Group
 
+#### **The Peter lab is recruiting motivated undergraduate students, graduate students, and postdocs. 
+Undergraduate students are encouraged to apply through [AURA](https://joinaura.io/lab/Peter+Lab)
+Please contact [me](mailto://b.peter@rochester.edu) if you're interested in joining the lab!**
+<br>
+
+
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/bp.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Benjamin M  Peter - *Group Leader ([U Rochester](https://www.sas.rochester.edu/bio/people/faculty/peter_benjamin/index.html), [MPI](https://www.eva.mpg.de/genetics/staff/benjamin-peter/))*
@@ -75,51 +81,16 @@ To Come
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-#### **The Peter lab is recruiting motivated undergrads, grad students, and postdocs. Please contact [me](mailto://b.peter@rochester.edu) if you're interested in joining the lab!**
-<br>
-
 ### Lab Alumni
 - [Laurits Skov (postdoc)](https://sites.google.com/view/laurits-skov/) - currently a postdoc in Priya Moorjani's group in
 Berkeley
 - [Stéphane Peyrégne (postdoc)](https://www.eva.mpg.de/genetics/computational-ancient-genomics/people/) - currently a postdoc in Janet Kelso's group at the MPI-EVA in Leipzig
 <br>
 
-<!--
-<p float="left">
-  <img src="/images/teampic/Felix.jpg" width="250" />
-  <img src="/images/teampic/Tamanna.jpeg" width="250" />
-  <img src="/images/teampic/Michaela.png" width="250" />
-  <img src="/images/teampic/Tiffany.jpg" width="250" /> 
-  <img src="/images/teampic/Martha.jpeg" width="250" />
-  <img src="/images/teampic/Bailey.jpeg" width="250" />
-  <img src="/images/teampic/Matt.JPG" width="250" />
-  <img src="/images/teampic/Lindsey.jpg" width="250" />
-  <img src="/images/teampic/Nandini.jpeg" width="250" />
-  <img src="/images/teampic/Sid.JPG" width="250" />
-  <img src="/images/teampic/Gladiana.jpg" width="250" />
-  <img src="/images/teampic/ceylin.JPG" width="250" />
-</p>
-
 ### Collaborators
-[Reed Bowman](http://www.archbold-station.org/html/aboutus/staffpages/rbowman/rbowman.html), Archbold Biological Station
+[Priya Moorjani](https://moorjanilab.org), UC Berkeley
 
-[Andy Clark](https://blogs.cornell.edu/clarklabblog/), Cornell University
+[Svante Paabo](https://eva.mpg.de), MPI-EVA
 
-[Graham Coop](https://gcbias.org/), UC Davis
+[Janet Kelso](https://eva.mpg.de), MPI-EVA
 
-[John Fitzpatrick](http://ecologyandevolution.cornell.edu/john-weaver-fitzpatrick), Cornell Lab of Ornithology
-
-[Steve Schoech](https://umdrive.memphis.edu/sschoech/www/), University of Memphis
-
-[Susan Johnston](https://sejohnston.com/), University of Edinburgh
-
-[Josephine Pemberton](http://pemberton.bio.ed.ac.uk/home), University of Edinburgh
-
-[Andrew McAdam](http://www.mcadamlab.ca/), CU Boulder
-
-[Andrea Townsend](https://hamiltoncs.org/townsend/), Hamilton College
-
-[Jay Rotella](https://www.montana.edu/rotella/), Montana State University
-
-[Scott Edwards](https://edwards.oeb.harvard.edu/people/scott-v-edwards), Harvard University
--->

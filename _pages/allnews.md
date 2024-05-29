@@ -1,14 +1,23 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "Chen Lab at the University of Rochester"
+excerpt: "Peter Lab at the University of Rochester"
 sitemap: false
 permalink: /allnews.html
 ---
 
 # News
+{% for article in site.data.news limit:5 %}
+<small><i>{{ article.date }}</i></small>
 
-{% for article in site.data.news %}
-<p><b>{{ article.date }}</b> <br>
-{{ article.headline }}</p>
+<div class="col-sm-12">
+### [{{article.headline}}]({{article.link}})
+{% if article contains "image" %}
+<img src="{{site.url}}/images/{{article.image}}" width="50%" 
+style="float:left; margin-right:20px"/>
+{% endif %}
+{{ article.text }}
+</div>
+
 {% endfor %}
+
