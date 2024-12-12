@@ -1,3 +1,26 @@
+- date: Dec 12, 2024
+  headline: Neandertal Admixture papers released!
+  text: "Leo's paper on Neandertal ancestry in early modern humans was published today in Science. This was a joint effort with Priya Moorjanis lab at UC Berkeley."
+  link: https://www.science.org/doi/10.1126/science.adq3010
+  image: pubpic/iasi2024_science.jpg
+
+- date: Dec 12, 2024
+  headline: Earliest modern human genome paper published
+  text: "Arevs paper on the genomes from Ranis and Zlaty-Kun was published today in Nature. This study was led by Johannes Krause and Kay Prüfer."
+  link: https://www.nature.com/articles/s41586-024-08420-x
+  image: pubpic/sumer2024_nature.png
+
+- date: Oct 2024
+  headline: New Preprint on PCA and F-statistics
+  link: https://www.biorxiv.org/content/10.1101/2024.05.13.593955v1
+  text: "Divy's preprint on the statistics on how we should do PCA to reveal population structure has been posted on biorxiv today. It definitely chances how I think about PCA; a main result is that we show that probabilisic versions of PCA are better at revealing population structure than most methods currently used"
+  image: pubpic/popli2024_biorxiv.jpg
+
+
+- date: Jun 2024
+  headline: Dr. Divyaratan Popli
+  text: Divyaratan successfully defended his PhD today!
+
 - date: May 2024
   headline: Preprint on Neandertal Admixture
   link: https://www.biorxiv.org/content/10.1101/2024.05.13.593955v1

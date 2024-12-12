@@ -1,3 +1,39 @@
+- title: A joint framework for studying population structure using principal component analysis and F-statistics
+  image: iasi2024_science.jpg
+  description: "In this joint paper with the Moorjani lab, we provide a systematic overview how Neandertal ancestry in early modern humans changed through time. We estimate that the gene flow happened around 47,000 years ago, and lasted around 7,000 years. We find that all Neandertal ancestry in people living today traces back to this event, and that selection-both positive and negative-on Neandertal ancestry happened very rapidly."
+  authors: Leonardo N. M. Iasi1*, Manjusha Chintalapati*, Laurits Skov, Alba Bossoms Mesa, Mateja Hajdinjak, Benjamin M. Peter*, Priya Moorjani*
+  authorsshort: Iasi et al.
+  journal: Science
+  link:
+    url: https://www.science.org/doi/10.1126/science.adq3010
+    display:  Link
+  highlight: 1
+  year: 2024
+
+- title: Earliest modern human genomes constrain timing of Neanderthal admixture
+  image: sumer2024_nature.png
+  description: "In this paper, led by Arev, Kay Prüfer and Johannes Krause, we provide new genetic data from early modern humans from Zlaty Kun, Czechia and Ranis, Germany. We show that they were members of a small population that went extinct, and that the individuals at Ranis and Zlaty Kun were close relatives."
+  authors: Sümer et al.
+  authorsshort: Sümer et al.
+  journal: Nature
+  link:
+    url: https://www.nature.com/articles/s41586-024-08420-x
+    display:  Link
+  highlight: 1
+  year: 2024
+
+- title: A joint framework for studying population structure using principal component analysis and F-statistics
+  image: popli2024_biorxiv.jpg
+  description: "In this paper, we develop a statistical framework to study population structure. We show that different versions of PCA yield different interpretations in terms of noise vs. population structure. Our results suggest that probablistic versions of PCA are better suited to revealing population structure, compared to the methods currently employed."
+  authors: Divyaratan Popli, BM Peter
+  authorsshort: D Popli, BM Peter
+  journal: biorxiv
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.03.13.990523v1
+    display:  Link
+  highlight: 1
+  year: 2024
+
 - title: "100,000 years of gene flow between Neandertals and Denisovans in the Altai mountains."
   image: admixfrog.png
   description: "I developed a new method to detect local ancestry in archaic genomes"
