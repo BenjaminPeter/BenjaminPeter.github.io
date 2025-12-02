@@ -9,8 +9,7 @@ permalink: /people/
 # The Research Group
 
 #### The Peter lab is recruiting motivated undergraduate students, graduate students, and postdocs. 
-Undergraduate students are encouraged to apply through [AURA](https://joinaura.io/lab/Peter+Lab)
-Please contact [me](mailto://b.peter@rochester.edu) if you're interested in joining the lab!
+Please contact [me](mailto://benj.pet@gmail.com) if you're interested in joining the lab!
 <br>
 
 
@@ -31,11 +30,11 @@ Pronouns: he/his
 <br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/leonardo_iasi.jpg){: style="width: 351px; float: left; border: 60px"}
-### Leonardo Iasi - *PhD Student ([MPI](https://www.eva.mpg.de/genetics/staff/leonardo-iasi/))*
+### Leonardo Iasi - *Postdoc ([MPI](https://www.eva.mpg.de/genetics/staff/leonardo-iasi/))*
 
 I am generally interested in combining population genetics, evolutionary genetics and computational data inference to approach questions concerning human evolution. Genetics has greatly contributed to our knowledge of human and archaic hominin diversity (Neandertals and Denisovans). One major finding was that admixture, i.e. the exchange of genetic material between previously isolated populations, occurred recurrently between archaic populations and modern humans. Signals of these admixture events are still present in modern day populations, resulting in ~2 % of Neandertal ancestry in human populations outside Africa and up to ~5 % of Denisovan ancestry in some populations of Oceania, shaping adaptive traits and genetic diversity among present day humans.
 
-My doctoral research under the supervision of Svante Pääbo and Benjamin Peter therefore focuses on developing, improving and evaluating methods to detect and date these admixture signals, in both ancient and modern populations, and with gene flow from either known or unknown archaic populations. To do this I improve existing or develop new bioinformatic methods and apply them on genetic data.
+My research focuses on developing, improving and evaluating methods to detect and date these admixture signals, in both ancient and modern populations, and with gene flow from either known or unknown archaic populations. To do this I improve existing or develop new bioinformatic methods and apply them on genetic data.
 
 <br>
 <br>
@@ -43,12 +42,6 @@ My doctoral research under the supervision of Svante Pääbo and Benjamin Peter 
 <br>
 <br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/divyaratan_popli.jpg){: style="width: 350px; float: left; border: 60px"}
-### Divyaratan Popli - *PhD Student ([MPI](https://www.eva.mpg.de/genetics/staff/divyaratan-popli/))*
-I am interested in developing statistical models and bioinformatic tools to answer questions about the relationships of our ancestors using ancient DNA. In the last few decades, extensive genomic data have been collected from thousands of archaeological remains, and the pool of ancient organic materials suitable for genome sequencing is continuously expanding. Familial relatedness of ancient individuals can provide insights into their culture and social hierarchy, and is relevant for downstream genetic analyses. Similarly, genetic relatedness between populations is informative about structure and past admixtures. However, estimating relatedness on either family or population level from ancient DNA is difficult due to low-coverage, ascertainment bias, or contamination from various sources. My PhD thesis under the supervision of Peter F. Stadler and Benjamin M. Peter therefore focuses on developing new methods to study relatedness taking these issues into account.
-
-
-<br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/alba_bossoms_mesa.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Alba Bossoms Mesa - *PhD Student (MPI, co-advised by Matthias Meyer)*
@@ -86,6 +79,10 @@ To Come
 Berkeley
 - [Stéphane Peyrégne (postdoc)](https://www.eva.mpg.de/genetics/computational-ancient-genomics/people/) - currently a postdoc in Janet Kelso's group at the MPI-EVA in Leipzig
 <br>
+- [Divyaratan Popli (PhD Student)]() - currently a bioinformatician at the German National Center for Tumor Diseases 
+
+
+<br><br><br><br><br><br><br><br>
 
 ### Collaborators
 [Priya Moorjani](https://moorjanilab.org), UC Berkeley
