@@ -1,4 +1,16 @@
-- title: A joint framework for studying population structure using principal component analysis and F-statistics
+- title: Genetic diversity of late Neanderthals in northwestern Europe
+  image: bossomsmesa2026_nature.jpg
+  description: "Population genetic analysis of northwestern Neandertals"
+  authors: Bossoms Mesa et al.
+  authorsshort: Bossoms Mesa et al.
+  journal: Nature
+  link: 
+    url: https://www.nature.com/articles/s41586-026-10625-1
+    display: Link
+  highlight: 1
+  year: 2026
+
+- title: Neanderthal ancestry through time: Insights from genomes of ancient and present-day humans
   image: iasi2024_science.jpg
   description: "In this joint paper with the Moorjani lab, we provide a systematic overview how Neandertal ancestry in early modern humans changed through time. We estimate that the gene flow happened around 47,000 years ago, and lasted around 7,000 years. We find that all Neandertal ancestry in people living today traces back to this event, and that selection-both positive and negative-on Neandertal ancestry happened very rapidly."
   authors: Leonardo N. M. Iasi1*, Manjusha Chintalapati*, Laurits Skov, Alba Bossoms Mesa, Mateja Hajdinjak, Benjamin M. Peter*, Priya Moorjani*
