@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "Peter Lab at the University of Rochester"
+excerpt: "Peter Lab at UCLA"
 sitemap: false
 permalink: /allnews.html
 ---

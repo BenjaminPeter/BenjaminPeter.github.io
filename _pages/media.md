@@ -8,8 +8,16 @@ permalink: /media/
 
 # Media
 
+#### North-Western Neandertals
+Alba's paper on the diversity of late Neandertals in northern Europe was covered e.g. by
+[UCLA News.](https://newsroom.ucla.edu/releases/neanderthals-western-europe-thriving-before-extinction)
+
+#### Early Human Neandertal Ancestry
+Leo's paper on Neandertal ancestry in early modern humans was widely covered
+[Altmetric](https://science.altmetric.com/details/171929271)
+
 #### Chagyrskaya Neandertal Paper
-Our paper on the Neandertal family from Chagyrskaya Cave was widely covered
+Laurits' paper on the Neandertal family from Chagyrskaya Cave was widely covered
 in the media, such as by [Carl Zimmer of the NY
 Times](https://www.nytimes.com/2022/10/19/science/first-neanderthal-family-russian-cave.html)
 
