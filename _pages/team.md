@@ -9,25 +9,31 @@ permalink: /people/
 # The Research Group
 
 #### The Peter lab is recruiting motivated undergraduate students, graduate students, and postdocs. 
-Please contact [me](mailto://benj.pet@gmail.com) if you're interested in joining the lab!
+Please contact [me](mailto:bpeter@ucla.edu) if you're interested in joining the lab!
 <br>
 
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/bp.jpg){: style="width: 350px; float: left; border: 10px"}
-### Benjamin M  Peter - *Group Leader ([U Rochester](https://www.sas.rochester.edu/bio/people/faculty/peter_benjamin/index.html), [MPI](https://www.eva.mpg.de/genetics/staff/benjamin-peter/))*
+### Benjamin M. Peter - *Group Leader ([UCLA](https://www.eeb.ucla.edu/), [MPI](https://www.eva.mpg.de/genetics/staff/benjamin-peter/))*
 
-Since January 2024, I am both an Assistant Professor in the Biology Department at the University of Rochester. Since November 2017, I am also a Research Group Leader at the [Max-Planck-Institute for Evolutionary Anthropology in Leipzig (Germany)](eva.mpg.de). 
-Before that, I was a postdoc with [John Novembre](jnpopgen.org) at the University of Chicago, and I received my PhD from the University of California, Berkeley, jointly advised by [Rasmus Nielsen](https://nielsen-lab.github.io/) and [Monty Slatkin](https://ib.berkeley.edu/people/faculty/slatkinm). 
+Since March 2026, I have been an Assistant Professor in the Department of Ecology and Evolutionary Biology at UCLA. Since November 2017, I have also been a Research Group Leader at the [Max-Planck-Institute for Evolutionary Anthropology in Leipzig (Germany)](https://www.eva.mpg.de/).
+Before that, I was a postdoc with [John Novembre](https://jnpopgen.org/) at the University of Chicago, and I received my PhD from the University of California, Berkeley, jointly advised by [Rasmus Nielsen](https://nielsen-lab.github.io/) and [Monty Slatkin](https://ib.berkeley.edu/people/faculty/slatkinm).
 I am widely interested in methods and applications of population and evolutionary genetics. Currently, I am primarily focussed on analyzing Neandertal DNA from fossils with minimal DNA preservation, and studying the interactions of Neandertals, Denisovans and early humans through time. 
-I am also interested in theory and methods to conceptualize, formailze and estimate population structure, particularly from large, heterogeneous samples.
+I am also interested in theory and methods to conceptualize, formalize and estimate population structure, particularly from large, heterogeneous samples.
 
-Email: [b.peter@rochester.edu](mailto://b.peter@rochester.edu) <br>
-Twitter: [@benmmpeter](https://twitter.com/benmpeter) <br>
+Email: [bpeter@ucla.edu](mailto:bpeter@ucla.edu) <br>
+Twitter: [@benmpeter](https://twitter.com/benmpeter) <br>
 Pronouns: he/his
 <br><br><br>
 <br><br><br>
 <br>
+
+### Lily Kuhn - *Second-year Bioinformatics PhD student (UCLA)*
+
+Profile coming soon.
+
+<br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/leonardo_iasi.jpg){: style="width: 351px; float: left; border: 60px"}
 ### Leonardo Iasi - *Postdoc ([MPI](https://www.eva.mpg.de/genetics/staff/leonardo-iasi/))*
@@ -60,8 +66,8 @@ My main interest lies in the population genetics of archaic humans (Neandertals 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/jiaqi_yang.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Jiaqi Yang - *PhD Student (MPI)*
- am interested in studying the human past, and particularly,
-archaic(Neanderthal/Denisovan) admixture in early modern humans. However, the
+I am interested in studying the human past, and particularly,
+archaic (Neanderthal/Denisovan) admixture in early modern humans. However, the
 inference of archaic admixture from ancient DNA has been challenging. Therefore,
 I am focusing on developing and applying new computational methods to better
 understand the relationships between archaic and modern humans.
@@ -70,16 +76,15 @@ understand the relationships between archaic and modern humans.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/dummy.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Eduardo Gonzales - *PhD Student (MPI)*
-To Come
+PhD student at the Max Planck Institute for Evolutionary Anthropology.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Lab Alumni
-- [Laurits Skov (postdoc)](https://sites.google.com/view/laurits-skov/) - currently a postdoc in Priya Moorjani's group in
-Berkeley
-- [Stéphane Peyrégne (postdoc)](https://www.eva.mpg.de/genetics/computational-ancient-genomics/people/) - currently a postdoc in Janet Kelso's group at the MPI-EVA in Leipzig
+- [Laurits Skov (former postdoc)](https://sites.google.com/view/laurits-skov/) - Assistant Professor at the Globe Institute, University of Copenhagen.
+- [Stéphane Peyrégne (former postdoc)](https://stephanepeyregne.github.io/) - Group Leader at Institut Jacques Monod (CNRS / Université Paris Cité), Paris.
 <br>
-- [Divyaratan Popli (PhD Student)]() - currently a bioinformatician at the German National Center for Tumor Diseases 
+- [Divyaratan Popli (former PhD student)](https://de.linkedin.com/in/divyaratan-popli) - Bioinformatician at the National Center for Tumor Diseases (NCT).
 
 
 <br><br><br><br><br><br><br><br>
@@ -87,7 +92,7 @@ Berkeley
 ### Collaborators
 [Priya Moorjani](https://moorjanilab.org), UC Berkeley
 
-[Svante Paabo](https://eva.mpg.de), MPI-EVA
+[Svante Pääbo](https://eva.mpg.de), MPI-EVA
 
 [Janet Kelso](https://eva.mpg.de), MPI-EVA
 
