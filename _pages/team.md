@@ -29,7 +29,7 @@ Pronouns: he/his
 <br><br><br>
 <br>
 
-### Lily Kuhn - *Second-year Bioinformatics PhD student (UCLA)*
+### Lily Kuhn - PhD student ([UCLA]())*
 
 Profile coming soon.
 
