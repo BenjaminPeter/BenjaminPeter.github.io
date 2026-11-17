@@ -30,7 +30,7 @@ In collaboration with the [Department of Evolutionary
 Genetics](https://www.eva.mpg.de/genetics/index) at the MPI for Evolutionary
 Anthropology, group members contributed to several studies that published data
 from Neandertals and early modern humans. For example, we led the first analysis
-of the genetic data from an entire Neandertal community. This study, lead by
+of the genetic data from an entire Neandertal community. This study, led by
 postdoc Laurits Skov, sequenced 13 new Neandertals from Chagyrskaya Cave (Altai
 mountains, Russia). In it, we showed that the Neandertals from Chagyrskaya Cave
 all lived at the same time, lived in very small communities, and that they were

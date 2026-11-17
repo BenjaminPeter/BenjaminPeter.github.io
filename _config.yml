@@ -7,9 +7,9 @@
 
 # Site settings
 title: The Peter Lab
-email: b.peter@rochester.edu
+email: bpeter@ucla.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Official website of the lab of Benjamin Peter at the University of Rochester
+  Official website of the lab of Benjamin Peter at the University of California, Los Angeles
 baseurl: ""
 url: ""
 

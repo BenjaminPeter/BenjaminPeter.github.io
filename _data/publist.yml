@@ -13,7 +13,7 @@
 - title: "Neanderthal ancestry through time: Insights from genomes of ancient and present-day humans"
   image: iasi2024_science.jpg
   description: "In this joint paper with the Moorjani lab, we provide a systematic overview how Neandertal ancestry in early modern humans changed through time. We estimate that the gene flow happened around 47,000 years ago, and lasted around 7,000 years. We find that all Neandertal ancestry in people living today traces back to this event, and that selection-both positive and negative-on Neandertal ancestry happened very rapidly."
-  authors: Leonardo N. M. Iasi1*, Manjusha Chintalapati*, Laurits Skov, Alba Bossoms Mesa, Mateja Hajdinjak, Benjamin M. Peter*, Priya Moorjani*
+  authors: Leonardo N. M. Iasi*, Manjusha Chintalapati*, Laurits Skov, Alba Bossoms Mesa, Mateja Hajdinjak, Benjamin M. Peter*, Priya Moorjani*
   authorsshort: Iasi et al.
   journal: Science
   link:
@@ -36,12 +36,12 @@
 
 - title: A joint framework for studying population structure using principal component analysis and F-statistics
   image: popli2024_biorxiv.jpg
-  description: "In this paper, we develop a statistical framework to study population structure. We show that different versions of PCA yield different interpretations in terms of noise vs. population structure. Our results suggest that probablistic versions of PCA are better suited to revealing population structure, compared to the methods currently employed."
+  description: "In this paper, we develop a statistical framework to study population structure. We show that different versions of PCA yield different interpretations in terms of noise vs. population structure. Our results suggest that probabilistic versions of PCA are better suited to revealing population structure, compared to the methods currently employed."
   authors: Divyaratan Popli, BM Peter
   authorsshort: D Popli, BM Peter
   journal: biorxiv
   link:
-    url: https://www.biorxiv.org/content/10.1101/2020.03.13.990523v1
+    url: https://www.biorxiv.org/content/10.1101/2024.09.25.615036v1
     display:  Link
   highlight: 1
   year: 2024
@@ -56,7 +56,7 @@
     url: https://www.biorxiv.org/content/10.1101/2020.03.13.990523v1
     display:  Link
   highlight: 1
-  year: 
+  year: 2020
   news1:
   news2:
 
@@ -68,7 +68,7 @@
   journal: Genome Biology
   year: 2023
   link:
-    url: http://dx.doi.org/10.1186/s13059-023-02847-7)
+    url: https://doi.org/10.1186/s13059-023-02847-7
     display:  Link
   highlight: 1
 
@@ -76,7 +76,7 @@
   authors: "**Skov L, Peyrégne S, Popli D, Iasi LNM**, Devièse T, Slon V, Zavala EI, Hajdinjak M, **Sümer AP**, Grote S, **Bossoms Mesa A**, López Herráez D, Nickel B, Nagel S, Richter J, Essel E, Gansauge M, Schmidt A, Korlević P, Comeskey D, Derevianko AP, Kharevich A, Markin SV, Talamo S, Douka K, Krajcarz MT, Roberts RG, Higham T, Viola B, Krivoshapkin AI, Kolobova KA, Kelso J, Meyer M, Pääbo S **Peter, BM**."
   authorsshort: "Skov et al."
   image: neandertal.webp
-  description: "We develop a new method to classify familial relatedness up to 3rd degree using minimal data, taking contamination and ancient DNA damage into account"
+  description: "We investigate the social organization of Neandertals using ancient DNA, identifying close relatives and evidence for small communities connected by female migration."
   journal: Nature
   year: 2022
   link:

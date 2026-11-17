@@ -8,7 +8,7 @@
     paper: https://www.biorxiv.org/content/10.1101/2020.03.13.990523v1
     program: https://www.github.com/benjaminpeter/admixfrog
   highlight: 1
-  year: 
+  year: 2020
   news1:
   news2:
 
@@ -39,12 +39,12 @@
   highlight: 1
 
 - title: "AuthentiCT"
-  authors: "**Stėphane Peyrėgne & Peter BM**"
+  authors: "**Stéphane Peyrégne & Peter BM**"
   image: authentict.webp
   description: "A program to estimate contamination from patterns of ancient DNA damage"
   journal: Genome Biology
   year: 2020
-  languate: python
+  language: python
   link: 
     paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02123-y
     program: https://github.com/StephanePeyregne/AuthentiCT
